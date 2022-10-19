@@ -4,14 +4,20 @@
   <img src="banner_new.png" alt="Designed by Freepik">
 </p>
 
-## Meu Projeto Muito Top
+## Projeto de Análise de Dados do portal Inside Airbnb, para o curso Data Science na Prática - sigmoidal
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
+No curso foi apresentada análise dos dados do Rio de Janeiro, mas para o projeto deveria ser escolhido outro local, minha opção foi por Lisboa.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+Os dados disponibilizados foram baixados do portal [Inside Aribnb](http://insideairbnb.com/get-the-data), e optei por copiar o arquivo e deixar a cópia no github, pois eles periodicamente atualizam os dados.
+
+Uma questão interessante, para quem está iniciando em Ciência de Dados, é que os dados são capturados utilizando web scraping, depois tratados e disponibilizados em csv, um mais completo, sem tratamento e o que eles chamam de pronto para análise, que foi o que optei, mas que para todos os dados do portal para quem só quiser estudar uma região, pode acessar o link direto com várias análises possíveis de serem feitas em  (http://insideairbnb.com/explore).
+
+Os dados de Lisboa, estavam bem consistentes, poucos registros nulos e mesmo os nulos não interferiram em nenhuma análise e não haviam outliers.
+
+
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Medium](https://medium.com/@carloshaar)
+* [Medium](https://medium.com/@carloshaar)
 * [LinkedIn](https://www.linkedin.com/in/carloshaar/)
 
 
