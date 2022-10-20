@@ -6,11 +6,13 @@
 
 ## Projeto de Análise de Dados do portal Inside Airbnb, para o curso Data Science na Prática - sigmoidal
 
-No curso foi apresentada análise dos dados do Rio de Janeiro, mas para o projeto deveria ser escolhido outro local, minha opção foi por Lisboa.
+No curso foi apresentada análise dos dados do Rio de Janeiro, mas para o projeto deveria ser escolhido outro local, minha opção foi por Lisboa, já que por coincidência, dias antes havíamos comentando no trabalho, sobre o custo de vida em Portugal, oportunidades de carreira entre outros detalhes.
 
 Os dados disponibilizados foram baixados do portal [Inside Aribnb](http://insideairbnb.com/get-the-data), e optei por copiar o arquivo e deixar a cópia no github, pois eles periodicamente atualizam os dados.
 
-Uma questão interessante, para quem está iniciando em Ciência de Dados, é que os dados são capturados utilizando web scraping, depois tratados e disponibilizados em csv, um mais completo, sem tratamento e o que eles chamam de pronto para análise, que foi o que optei, mas que para todos os dados do portal para quem só quiser estudar uma região, pode acessar o link direto com várias análises possíveis de serem feitas em  (http://insideairbnb.com/explore).
+Uma questão interessante, para quem está iniciando em Ciência de Dados, é que os dados são capturados utilizando web scraping, depois tratados e disponibilizados em csv, um mais completo, sem tratamento e o que eles chamam de pronto para análise, que foi o que optei.
+
+Caso uma pessoa que não tem interesse em estudar ciência de dados, mas que goste de conhecer mais detalhes de lugares onde exista Airbnb, ou mesmo que tenha conhecimento mas que não queira fazer as análises, é possível acessar o link (http://insideairbnb.com/explore) que lá já existem várias análises feitas de forma dinâmica que ainda podem ser otimizadas.
 
 Os dados de Lisboa, estavam bem consistentes, poucos registros nulos e mesmo os nulos não interferiram em nenhuma análise e não haviam outliers.
 
