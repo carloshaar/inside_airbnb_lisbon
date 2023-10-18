@@ -24,4 +24,12 @@ Os dados de Lisboa, estavam bem consistentes, poucos registros nulos e mesmo os 
 
 
 ## Outros Projetos Meus:
-Em construção
+# Python
+https://github.com/carloshaar/nps_openai
+
+# PowerBI
+https://github.com/carloshaar/bootcamp_santander_dio_pbi1
+
+https://github.com/carloshaar/dashboard_logistica_datab
+
+https://github.com/carloshaar/dashboard_comercial_datab
